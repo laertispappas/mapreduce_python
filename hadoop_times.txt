@@ -1,0 +1,39 @@
+****** INPUT: 204MB *******
+
+Time for hadoop
+---------------------------------
+real	89m45.625s
+user	73m1.896s
+sys	19m6.464s
+
+
+Time for serial algorithm
+--------------------------------------
+5043.809845 seconds = 84.05 minutes
+
+
+********INPUT 6MB***************
+
+Time for hadoop 
+---------------------------
+4 minutes
+
+
+time for serial
+--------------------------
+2 minutes
+
+
+
+****** INput 500MB ********
+
+Time for hadoop
+-----------------------------
+
+real	211m56.685s = 3.52h
+user	170m32.296s = 2.83h
+sys	45m32.588s
+
+Time for serial algorithm
+-----------------------------
+223.1 minutes = 3.72h
